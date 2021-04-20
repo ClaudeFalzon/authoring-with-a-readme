@@ -51,5 +51,14 @@ FRom ehre you can go to the top.[link](#top)
 😼
 😷
 
+| Names | Class | 
+| --- | --- | 
+| Claude Falzon | cjfalzon@gmail.com
+| Lilia Falzon | lilisbtodioovs@gmail.com 
 
+
+| Names  | CLass  |
+|---|---|
+|  ![Minion](https://octodex.github.com/images/minion.png) | ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")  |
+|  ![Minion](https://octodex.github.com/images/yogitocat.png) | ![Stormtroopocat](https://octodex.github.com/images/snowtocat_final.jpg "The Stormtroopocat")  |
 
