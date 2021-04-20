@@ -34,7 +34,8 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ![altText](https://source.unsplash.com/user/erondu)
 
-./images/
+## here is another image
+[imagelink](./images/mika-korhonen-KJ7nnJ_y5Rg-unsplash.jpg)
 
 ## Tables
 
